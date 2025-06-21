@@ -1,0 +1,11 @@
+# Ignore node_modules and environment files
+/backend/.env
+/backend/node_modules/
+
+/frontend/.env.local
+/frontend/node_modules/
+/frontend/.next
+
+*.log
+.DS_Store
+Thumbs.db
